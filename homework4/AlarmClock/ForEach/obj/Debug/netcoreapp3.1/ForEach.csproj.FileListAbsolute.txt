@@ -1,0 +1,13 @@
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\bin\Debug\netcoreapp3.1\ForEach.exe
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\bin\Debug\netcoreapp3.1\ForEach.deps.json
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.json
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\bin\Debug\netcoreapp3.1\ForEach.runtimeconfig.dev.json
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\bin\Debug\netcoreapp3.1\ForEach.dll
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\bin\Debug\netcoreapp3.1\ForEach.pdb
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\obj\Debug\netcoreapp3.1\ForEach.csprojAssemblyReference.cache
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfoInputs.cache
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\obj\Debug\netcoreapp3.1\ForEach.AssemblyInfo.cs
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\obj\Debug\netcoreapp3.1\ForEach.csproj.CoreCompileInputs.cache
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\obj\Debug\netcoreapp3.1\ForEach.dll
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\obj\Debug\netcoreapp3.1\ForEach.pdb
+D:\Users\Sakurasama\Desktop\homework4\AlarmClock\ForEach\obj\Debug\netcoreapp3.1\ForEach.genruntimeconfig.cache
