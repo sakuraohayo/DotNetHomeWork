@@ -1,0 +1,12 @@
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.exe
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.deps.json
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.json
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.runtimeconfig.dev.json
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.dll
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\bin\Debug\netcoreapp3.1\ConsoleApp4.pdb
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfoInputs.cache
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.AssemblyInfo.cs
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.dll
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.pdb
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp4\obj\Debug\netcoreapp3.1\ConsoleApp4.genruntimeconfig.cache

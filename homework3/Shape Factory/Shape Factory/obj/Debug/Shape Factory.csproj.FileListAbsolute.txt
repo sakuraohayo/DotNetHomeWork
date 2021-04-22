@@ -1,0 +1,7 @@
+C:\Users\张博凯\source\repos\Shape Factory\Shape Factory\bin\Debug\Shape Factory.exe.config
+C:\Users\张博凯\source\repos\Shape Factory\Shape Factory\bin\Debug\Shape Factory.exe
+C:\Users\张博凯\source\repos\Shape Factory\Shape Factory\bin\Debug\Shape Factory.pdb
+C:\Users\张博凯\source\repos\Shape Factory\Shape Factory\obj\Debug\Shape Factory.csprojAssemblyReference.cache
+C:\Users\张博凯\source\repos\Shape Factory\Shape Factory\obj\Debug\Shape Factory.csproj.CoreCompileInputs.cache
+C:\Users\张博凯\source\repos\Shape Factory\Shape Factory\obj\Debug\Shape Factory.exe
+C:\Users\张博凯\source\repos\Shape Factory\Shape Factory\obj\Debug\Shape Factory.pdb

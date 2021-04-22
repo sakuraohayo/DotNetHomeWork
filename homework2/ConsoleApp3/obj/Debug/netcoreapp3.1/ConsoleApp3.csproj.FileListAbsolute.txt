@@ -1,0 +1,13 @@
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csprojAssemblyReference.cache
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.AssemblyInfo.cs
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.exe
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.deps.json
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.json
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.runtimeconfig.dev.json
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\bin\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.dll
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.pdb
+D:\Users\Sakurasama\Desktop\homework2\ConsoleApp3\obj\Debug\netcoreapp3.1\ConsoleApp3.genruntimeconfig.cache
