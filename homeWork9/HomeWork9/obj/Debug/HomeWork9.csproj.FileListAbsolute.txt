@@ -1,0 +1,5 @@
+D:\Users\Sakurasama\Desktop\jdk-8u241-windows-x64\greenhornet30-CSharpHomework-master\CSharpHomework\HomeWork9\HomeWork9\obj\Debug\HomeWork9.csprojAssemblyReference.cache
+D:\Users\Sakurasama\Desktop\jdk-8u241-windows-x64\greenhornet30-CSharpHomework-master\CSharpHomework\HomeWork9\HomeWork9\obj\Debug\HomeWork9.Form1.resources
+D:\Users\Sakurasama\Desktop\jdk-8u241-windows-x64\greenhornet30-CSharpHomework-master\CSharpHomework\HomeWork9\HomeWork9\obj\Debug\HomeWork9.Properties.Resources.resources
+D:\Users\Sakurasama\Desktop\jdk-8u241-windows-x64\greenhornet30-CSharpHomework-master\CSharpHomework\HomeWork9\HomeWork9\obj\Debug\HomeWork9.csproj.GenerateResource.cache
+D:\Users\Sakurasama\Desktop\jdk-8u241-windows-x64\greenhornet30-CSharpHomework-master\CSharpHomework\HomeWork9\HomeWork9\obj\Debug\HomeWork9.csproj.CoreCompileInputs.cache
